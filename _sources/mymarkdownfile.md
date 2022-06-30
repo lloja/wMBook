@@ -14,3 +14,6 @@ Some text
 
 Here's some text and [here's my label](my-label).
 
+Here is my nifty citation {cite}`perez2011python`.
+
+Here are multiple citations {cite}`perez2011python,holdgraf_rapid_2016,RePEc:the:publsh:1367,caporaso2010qiime`!
